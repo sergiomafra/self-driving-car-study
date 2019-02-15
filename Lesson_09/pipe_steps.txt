@@ -1,0 +1,6 @@
+Advanced Lane Line Dectection:
+
+1) Camera Calibration
+2) Threshold
+3) Bird Perspective
+4) Grab only the bottom half of the image
