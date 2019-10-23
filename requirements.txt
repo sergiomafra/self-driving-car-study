@@ -61,7 +61,7 @@ pyparsing==2.3.0
 PyQt5==5.11.3
 PyQt5-sip==4.19.13
 python-dateutil==2.7.5
-python-engineio==3.0.0
+python-engineio==3.8.2.post1
 python-socketio==2.1.1
 pytz==2018.7
 PyWavelets==1.0.1
